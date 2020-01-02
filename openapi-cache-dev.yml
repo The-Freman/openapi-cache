@@ -3,4 +3,3 @@ spring:
     host: redis.qfjava.cn
     port: 8400
     password: redis001
-    database: 14
